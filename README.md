@@ -4,6 +4,6 @@
 
 Although we were not able to track the snowballs moving accross the screen perfectly, we both gained experience working with VGA output and camera input to a FPGA.
 
-A quick video on the project is saved as "Dodge Snowball Video.mp4"
+A video summary can be seen by viewing "Dodge Snowball Video.mp4".
 
-A report on the project is saved as "Dodge Snowball Report"
+A full report can be seen by viewing "Dodge Snowball Report.pdf".
